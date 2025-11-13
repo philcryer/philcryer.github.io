@@ -1,14 +1,5 @@
-# philcryer.com
+# philcryer.github.io
 
-This is the code for my personal homepage, [philcryer.com](http://philcryer.com), using the free [https://html5up.net/miniport](miniport - html5up template). They have some great stuff, check them out.
-
-## License
-
-MIT
-
-## TODO
-
-* add terms/conditions 
-* add privacy
+This repo has a `CNAME` file, so anything that hits this domain reads that, and then it does a redirect to my real homepage, [philcryer.com](http://philcryer.com). The source code for that site is available here: [philcryer/philcryer.com](https://github.com/philcryer/philcryer.com)
 
 ### Thanks
